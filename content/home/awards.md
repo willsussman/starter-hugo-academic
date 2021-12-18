@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 70
 
 title: Awards
 subtitle: ''
@@ -36,7 +36,8 @@ design:
   #   4 = Citation (publication only)
   view: 1
 ---
-
+<!-- 
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
+ -->
