@@ -1,6 +1,6 @@
 ---
 title: The Yale Space Station
-summary: Lorem ipsum.
+summary: Shoot for the Moon (literally)
 external_link: ""
 image:
   focal_point: ""
