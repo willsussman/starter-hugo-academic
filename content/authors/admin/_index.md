@@ -1,8 +1,10 @@
 ---
-role: ""
+role: Lorem ipsum
 avatar_filename: headshot.jpg
-bio: ""
-interests: []
+bio: Lorem ipsum
+interests:
+  - Lorem
+  - ipsum
 social:
   - icon: envelope
     icon_pack: fas
