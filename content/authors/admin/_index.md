@@ -1,32 +1,32 @@
 ---
-role: Lorem ipsum
-avatar_filename: headshot.jpg
+role: PhD Student
+avatar_filename: headshot32.jpg
 bio: Lorem ipsum
 interests:
   - Lorem
-  - ipsum
+  - Ipsum
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com
+    link: https://scholar.google.com/citations?user=VIvs-fIAAAAJ&hl=en&oi=sra
   - icon: github
     icon_pack: fab
-    link: https://github.com
+    link: https://github.com/willsussman
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/willsussman/
 organizations:
   - name: MIT CSAIL
     url: https://www.csail.mit.edu/
 education:
   courses:
-    - course: BS in Electrical Engineering & Computer Science
+    - course: BS in Electrical Engineering & Computer Science with Distinction; Certificate in Data Science
       institution: Yale University
       year: 2021
 superuser: true
