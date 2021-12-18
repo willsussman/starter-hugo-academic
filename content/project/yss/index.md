@@ -1,10 +1,10 @@
 ---
 title: The Yale Space Station
-summary: Lorem ipsum.
+summary: Shoot for the Moon (literally)
 external_link: ""
 image:
   focal_point: ""
-  filename: yss.jpg
+  filename: featured.jpg
 slides: ""
 date: 2021-12-18T21:37:20.039Z
 ---
