@@ -1,11 +1,12 @@
 ---
 title: The Yale Space Station
-summary: Shoot for the Moon (literally)
+summary: Awarded best thesis.
 external_link: ""
 image:
   focal_point: ""
   filename: featured.jpg
 slides: ""
+subtitle: Shoot for the Moon
 date: 2021-12-18T21:37:20.039Z
 ---
 
