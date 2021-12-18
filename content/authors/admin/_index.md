@@ -1,6 +1,6 @@
 ---
 role: PhD Student
-avatar_filename: headshot32.jpeg
+avatar_filename: headshot.jpeg
 bio: Lorem ipsum
 interests:
   - Lorem
