@@ -1,6 +1,6 @@
 ---
 role: PhD Student
-avatar_filename: headshot32.jpg
+avatar_filename: headshot32.jpeg
 bio: Lorem ipsum
 interests:
   - Lorem
@@ -9,9 +9,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=VIvs-fIAAAAJ&hl=en&oi=sra
