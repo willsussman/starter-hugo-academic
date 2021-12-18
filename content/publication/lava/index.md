@@ -42,7 +42,7 @@ projects: []
 image:
   focal_point: ""
   preview_only: false
-  filename: wenjuneers.jpg
+  filename: featured.jpg
 url_poster: ""
 url_code: ""
 doi: 10.1145/3452296.3472890
