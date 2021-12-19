@@ -1,6 +1,6 @@
 ---
 title: The Yale Space Station
-summary: Shoot for the Moon, literally. Awarded best thesis.
+summary: Shoot for the Moon, literally. Named best thesis.
 external_link: ""
 image:
   focal_point: ""
