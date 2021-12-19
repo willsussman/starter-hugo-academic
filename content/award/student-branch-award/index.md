@@ -1,6 +1,6 @@
 ---
-title: Northeastern U.S. IEEE Student Activities Award
-summary: Pictured with the late Professor Mark Reed.
+title: IEEE Region 1 Student Activities Award
+summary: Region 1 includes CT, MA, ME, NH, northern NJ, NY, RI, and VT.
 # tags:
 # - Deep Learning
 # date: "2016-04-27T00:00:00Z"
@@ -29,5 +29,6 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
+<!-- 
 I was recognized as the IEEE student member "most responsible for an extraordinary accomplishment associated with student activities" in my region, which includes CT, MA, ME, NH, northern NJ, NY, RI, and VT.
+ -->

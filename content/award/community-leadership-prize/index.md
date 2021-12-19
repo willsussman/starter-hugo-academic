@@ -29,5 +29,6 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
+<!-- 
 I once ate cereal out of the trophy.
+ -->
