@@ -1,6 +1,6 @@
 ---
 title: IQBox
-summary: A smart mailbox.
+summary: A smart mailbox for collecting weather data and improving postal efficiency and convenience.
 external_link: ""
 image:
   focal_point: ""
