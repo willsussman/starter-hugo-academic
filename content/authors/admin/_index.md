@@ -33,4 +33,4 @@ Previously I was an undergraduate at Yale, where I worked on programmable radio 
 {{< icon name="download" pack="fas" >}}
  -->
 
-My one-page resume can be found {{< staticref "resume.pdf" "newtab" >}}here{{< /staticref >}}. Some highlights are below.
+My one-page resume can be found {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref >}}. Some highlights are below.
