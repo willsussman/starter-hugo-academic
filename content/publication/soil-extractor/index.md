@@ -7,6 +7,7 @@ authors:
   - admin
   - Pradhi Aggarwal
   - Francis Kigawa
+doi: https://patents.justia.com/patent/20200386098
 draft: false
 featured: false
 image:
