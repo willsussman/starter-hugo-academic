@@ -32,4 +32,4 @@ I'm a PhD student in the Networks and Mobile Systems group at MIT CSAIL, advised
 <!-- 
 {{< icon name="download" pack="fas" >}}
  -->
-My one-page resume can be found {{< staticref "assets/media/resume.pdf" "newtab" >}}here{{< /staticref >}}. Some highlights are below.
+My one-page resume can be found {{< staticref "resume.pdf" "newtab" >}}here{{< /staticref >}}. Some highlights are below.
