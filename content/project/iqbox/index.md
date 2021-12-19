@@ -1,11 +1,11 @@
 ---
 title: IQBox
-subtitle: A smart mailbox.
-date: 2021-12-19T08:21:28.222Z
-draft: false
-featured: false
+summary: A smart mailbox.
+external_link: ""
 image:
-  filename: featured.jpg
   focal_point: ""
-  preview_only: false
+  filename: featured.jpg
+slides: ""
+subtitle: ""
+date: 2021-12-18T22:29:27.254Z
 ---
