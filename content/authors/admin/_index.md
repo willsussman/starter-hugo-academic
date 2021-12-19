@@ -1,9 +1,7 @@
 ---
 role: PhD Student
 avatar_filename: avatar.jpg
-interests:
-  - Lorem
-  - Ipsum
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
