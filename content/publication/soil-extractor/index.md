@@ -22,4 +22,4 @@ image:
   preview_only: false
 date: 2021-12-19T08:15:02.336Z
 ---
-U.S. Provisional Patent Application [62/858,577](https://patents.justia.com/patent/20200386098)
+U.S. Provisional Patent Application 62/858,577
