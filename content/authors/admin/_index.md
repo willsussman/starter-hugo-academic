@@ -29,8 +29,4 @@ I'm a PhD student in the Networks and Mobile Systems group at MIT CSAIL, advised
 
 Previously I was an undergraduate at Yale, where I worked on programmable radio environments with Wenjun Hu. I also started an award-winning IEEE Student Branch.
 
-<!-- 
-{{< icon name="download" pack="fas" >}}
- -->
-
 My one-page resume can be found {{< staticref "resume.pdf" "newtab" >}}here{{< /staticref >}}. Some highlights are below.
