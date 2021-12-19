@@ -1,5 +1,5 @@
 ---
-title: Patent-Pending Soil Extractor
+title: Soil Extractor
 publication_types:
   - "8"
 authors:
