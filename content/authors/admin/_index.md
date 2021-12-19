@@ -29,4 +29,7 @@ email: wsussman@mit.edu
 ---
 I'm a PhD student in the Networks and Mobile Systems group at MIT CSAIL, advised by Hari Balakrishnan. I am supported by a Jacobs Presidential Fellowship.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- 
+{{< icon name="download" pack="fas" >}}
+ -->
+My one-page resume can be found {{< staticref "assets/media/resume.pdf" "newtab" >}}here{{< /staticref >}}. Some highlights are below.
