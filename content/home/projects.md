@@ -39,7 +39,7 @@ design:
   # Toggle between the various page layout types.
   #   1 = List (no pic)
   #   2 = Compact (small pic at right)
-  #   3 = Card
+  #   3 = Card (big pic with caption)
   #   5 = Showcase
   view: 3
 
