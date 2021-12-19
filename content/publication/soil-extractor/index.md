@@ -1,0 +1,17 @@
+---
+title: Soil Extractor
+publication_types:
+  - "8"
+authors:
+  - Ekaterina Danchenko
+  - admin
+  - Pradhi Aggarwal
+  - Francis Kigawa
+draft: false
+featured: false
+image:
+  filename: featured.jpg
+  focal_point: ""
+  preview_only: false
+date: 2021-12-19T08:15:02.336Z
+---
