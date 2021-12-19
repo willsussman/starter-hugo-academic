@@ -27,7 +27,6 @@ highlight_name: true
 title: Will Sussman
 email: wsussman@mit.edu
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-<!-- 
+I'm a PhD student in the Networks and Mobile Systems group at MIT CSAIL, advised by Hari Balakrishnan. I am supported by a Jacobs Presidential Fellowship.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
- -->
