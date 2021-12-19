@@ -37,11 +37,11 @@ design:
   columns: '2'
 
   # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
+  #   1 = List (no pic)
+  #   2 = Compact (small pic at right)
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
