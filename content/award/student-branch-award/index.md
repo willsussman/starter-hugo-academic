@@ -29,6 +29,3 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-<!-- 
-I was recognized as the IEEE student member "most responsible for an extraordinary accomplishment associated with student activities" in my region, which includes CT, MA, ME, NH, northern NJ, NY, RI, and VT.
- -->
