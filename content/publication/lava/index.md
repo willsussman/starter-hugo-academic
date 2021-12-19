@@ -34,7 +34,7 @@ url_source: ""
 url_video: ""
 publication: In Proceedings of the 2021 ACM SIGCOMM 2021 Conference
 featured: true
-date: 2021-12-18T21:36:51.402Z
+date: 2021-12-19T10:48:52.447Z
 url_slides: ""
 title: "LAVA: Fine-Grained 3D Indoor Wireless Coverage for Small IoT Devices"
 tags: []
@@ -47,14 +47,3 @@ url_poster: ""
 url_code: ""
 doi: 10.1145/3452296.3472890
 ---
-<!-- 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
- -->
