@@ -40,7 +40,7 @@ design:
   #   1 = List (no pic)
   #   2 = Compact (small pic at right)
   #   3 = Card (big pic with caption)
-  #   5 = Showcase
+  #   5 = Showcase (big pic at left)
   view: 5
 
   # For Showcase view, flip alternate rows?
