@@ -12,18 +12,21 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/willsussman/
-  - icon: tiktok
-    icon_pack: fab
-    link: https://www.youtube.com/watch?v=oHg5SJYRHA0
-  - icon: facebook
-    icon_pack: fab
-    link: https://www.facebook.com
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com
+  # - icon: tiktok
+  #   icon_pack: fab
+  #   link: https://www.youtube.com/watch?v=oHg5SJYRHA0
+  # - icon: facebook
+  #   icon_pack: fab
+  #   link: https://www.facebook.com
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com
+  # - icon: instagram
+  #   icon_pack: fab
+  #   link: https://www.instagram.com
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/willsussman
 organizations:
   - name: MIT CSAIL
     url: https://www.csail.mit.edu/
