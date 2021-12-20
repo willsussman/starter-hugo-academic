@@ -6,6 +6,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:wsussman@mit.edu
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=VIvs-fIAAAAJ&hl=en&oi=sra
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/willsussman/
+  - icon: tiktok
+    icon_pack: fab
+    link: youtube.com
 organizations:
   - name: MIT CSAIL
     url: https://www.csail.mit.edu/
