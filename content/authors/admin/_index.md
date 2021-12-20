@@ -18,9 +18,10 @@ social:
   # - icon: facebook
   #   icon_pack: fab
   #   link: https://www.facebook.com
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com
+  - icon: twitter
+    icon_pack: fab
+    link: https://www.youtube.com/watch?v=oHg5SJYRHA0
+    # link: https://twitter.com
   # - icon: instagram
   #   icon_pack: fab
   #   link: https://www.instagram.com
