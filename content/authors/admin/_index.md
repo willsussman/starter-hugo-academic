@@ -14,7 +14,7 @@ social:
     link: https://www.linkedin.com/in/willsussman/
   - icon: tiktok
     icon_pack: fab
-    link: youtube.com
+    link: https://www.youtube.com/watch?v=oHg5SJYRHA0
 organizations:
   - name: MIT CSAIL
     url: https://www.csail.mit.edu/
