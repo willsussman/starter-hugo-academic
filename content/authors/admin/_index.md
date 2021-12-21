@@ -33,6 +33,6 @@ email: wsussman@mit.edu
 ---
 I'm a PhD student in the Networks and Mobile Systems group at MIT CSAIL, advised by Hari Balakrishnan. I am supported by a Jacobs Presidential Fellowship.
 
-Previously I was an undergraduate at Yale, where I worked on programmable radio environments with Wenjun Hu. I also started an award-winning IEEE Student Branch.
+Previously I was an undergraduate at Yale, where I worked on programmable radio environments with Wenjun Hu. I also started an IEEE Student Branch which was named best in the Northeast.
 
 My one-page resume can be found {{< staticref "will-sussman-resume.pdf" "newtab" >}}here{{< /staticref >}}. Some highlights are below.
