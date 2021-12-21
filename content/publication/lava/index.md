@@ -29,10 +29,10 @@ authors:
   - Wenjun Hu
 url_dataset: ""
 url_project: ""
-publication_short: In SIGCOMM '21
+publication_short: ""
 url_source: ""
 url_video: ""
-publication: In Proceedings of the 2021 ACM SIGCOMM 2021 Conference
+publication: Proceedings of the 2021 ACM SIGCOMM 2021 Conference
 featured: true
 date: 2021-12-19T21:25:18.629Z
 url_slides: ""
