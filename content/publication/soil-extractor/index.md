@@ -8,7 +8,7 @@ authors:
   - Pradhi Aggarwal
   - Francis Kigawa
 doi: ""
-publication: ""
+publication: "U.S. Provisional Patent Application 62/858,577"
 publication_short: ""
 abstract: A soil extractor is provided that allows a user to displace a drill
   bit along a drill pathway and collect a sample of soil at a desired depth
@@ -24,4 +24,3 @@ image:
   preview_only: false
 date: 2021-12-19T08:15:02.336Z
 ---
-U.S. Provisional Patent Application 62/858,577
