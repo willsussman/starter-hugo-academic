@@ -15,7 +15,7 @@ url_source: https://www.flipsnack.com/politicalsciencetoday/v1-n2/full-view.html
 url_video: ""
 publication: APSA Political Science Today, Volume 1, Number 2, Page 21
 featured: true
-date: 2021-12-19T21:25:18.629Z
+date: 2021-05-01T21:25:18.629Z
 url_slides: ""
 title: Undergraduate Poll Worker Essay Contest
 tags: []

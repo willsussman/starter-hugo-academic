@@ -34,7 +34,7 @@ url_source: ""
 url_video: ""
 publication: Proceedings of the 2021 ACM SIGCOMM 2021 Conference, Pages 123–136
 featured: true
-date: 2021-12-19T21:25:18.629Z
+date: 2021-08-09T21:25:18.629Z
 url_slides: ""
 title: "LAVA: Fine-Grained 3D Indoor Wireless Coverage for Small IoT Devices"
 tags: []

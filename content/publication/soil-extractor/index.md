@@ -22,5 +22,6 @@ image:
   filename: featured.jpg
   focal_point: ""
   preview_only: false
-date: 2021-12-19T08:15:02.336Z
+date: 2020-12-10T08:15:02.336Z
+url_source: https://patents.justia.com/patent/20200386098
 ---
