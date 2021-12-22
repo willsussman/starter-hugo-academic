@@ -1,9 +1,11 @@
 ---
-abstract: In fall of 2020, the American Political Science Association's Election Assistance Task Force hosted a short essay contest asking undergraduate students to document their experiences serving as poll workers.
+abstract: In fall of 2020, the American Political Science Association's Election
+  Assistance Task Force hosted a short essay contest asking undergraduate
+  students to document their experiences serving as poll workers.
 slides: ""
 url_pdf: ""
 publication_types:
-  - "1"
+  - "0"
 authors:
   - admin
 url_dataset: ""
@@ -15,7 +17,7 @@ publication: APSA Political Science Today, Volume 1, Number 2, Page 21
 featured: true
 date: 2021-12-19T21:25:18.629Z
 url_slides: ""
-title: "Undergraduate Poll Worker Essay Contest"
+title: Undergraduate Poll Worker Essay Contest
 tags: []
 projects: []
 image:
@@ -24,5 +26,5 @@ image:
   filename: featured.jpg
 url_poster: ""
 url_code: ""
-doi:
+doi: null
 ---
