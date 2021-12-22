@@ -1,6 +1,6 @@
 ---
 title: National Merit Scholarship
-summary: 1.6 million entrants, 7,500 recipients.
+summary: 1.6 million entrants; 7,500 recipients.
 # tags:
 # - Deep Learning
 # date: "2016-04-27T00:00:00Z"
