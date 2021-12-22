@@ -3,7 +3,7 @@ title: IEEE Region 1 Student Activities Award
 summary: Region 1 includes CT, MA, ME, NH, northern NJ, NY, RI, and VT.
 # tags:
 # - Deep Learning
-# date: "2016-04-27T00:00:00Z"
+date: "2019-10-24T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
