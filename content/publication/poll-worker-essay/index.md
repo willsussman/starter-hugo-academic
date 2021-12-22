@@ -5,7 +5,7 @@ abstract: In fall of 2020, the American Political Science Association's Election
 slides: ""
 url_pdf: ""
 publication_types:
-  - "0"
+  - "0" # Uncategorized (1 is conf pub)
 authors:
   - admin
 url_dataset: ""
