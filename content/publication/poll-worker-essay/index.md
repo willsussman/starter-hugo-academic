@@ -4,8 +4,8 @@ abstract: In fall of 2020, the American Political Science Association's Election
   students to document their experiences serving as poll workers.
 slides: ""
 url_pdf: ""
-publication_types:
-  - "2"
+publication_types: ""
+  # - "2"
 authors:
   - admin
 url_dataset: ""
