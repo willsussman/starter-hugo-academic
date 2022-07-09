@@ -7,11 +7,12 @@ url_pdf: ""
 publication_types: ""
   # - "2"
 authors:
-  - admin
+  # - admin
+  - Will Sussman
 url_dataset: ""
 url_project: ""
 publication_short: ""
-url_source: https://www.flipsnack.com/politicalsciencetoday/v1-n2/full-view.html
+url_source: "https://www.flipsnack.com/politicalsciencetoday/v1-n2/full-view.html"
 url_video: ""
 publication: APSA Political Science Today, Volume 1, Number 2, Page 21
 featured: true

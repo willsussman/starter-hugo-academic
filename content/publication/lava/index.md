@@ -23,7 +23,8 @@ publication_types:
   - "1"
 authors:
   - R. Ivan Zelaya
-  - admin
+  # - admin
+  - William Sussman
   - Jeremy Gummeson
   - Kyle Jamieson
   - Wenjun Hu
@@ -32,7 +33,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: Proceedings of the 2021 ACM SIGCOMM 2021 Conference, Pages 123–136
+publication: SIGCOMM \'21
 featured: true
 date: 2021-08-09T21:25:18.629Z
 url_slides: ""

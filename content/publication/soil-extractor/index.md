@@ -4,7 +4,8 @@ publication_types:
   - "8"
 authors:
   - Ekaterina Danchenko
-  - admin
+  # - admin
+  - William Sussman
   - Pradhi Aggarwal
   - Francis Kigawa
 doi: ""
@@ -23,5 +24,5 @@ image:
   focal_point: ""
   preview_only: false
 date: 2020-12-10T08:15:02.336Z
-url_source: https://patents.justia.com/patent/20200386098
+url_source: "https://patents.justia.com/patent/20200386098"
 ---

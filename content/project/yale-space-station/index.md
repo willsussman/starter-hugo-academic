@@ -1,6 +1,6 @@
 ---
 title: The Yale Space Station
-summary: Shoot for the Moon, literally. Named best senior project.
+summary: Shoot for the Moon, literally. Named best senior project in Electrical Engineering.
 external_link: ""
 image:
   focal_point: ""

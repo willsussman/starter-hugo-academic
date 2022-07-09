@@ -6,11 +6,12 @@ publication_types: ""
   # - "0"
   # 0: (nothing); 1: conference paper; 2: journal article; 3: preprint; 4: report; 5: book; 6: book section; 7: thesis; 8: patent; 9+: (nothing)
 authors:
-  - admin
+  # - admin
+  - Will Sussman
 url_dataset: ""
 url_project: ""
 publication_short: ""
-url_source: https://oge.mit.edu/the-white-house-is-on-the-phone/
+url_source: "https://oge.mit.edu/the-white-house-is-on-the-phone/"
 # https://gradadmissions.mit.edu/blog/white-house-phone
 url_video: ""
 publication: MIT Grad Blog
