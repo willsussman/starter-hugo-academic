@@ -23,7 +23,7 @@ organizations:
     url: https://www.csail.mit.edu/
 education:
   courses:
-    - course: B.S. in Electrical Engineering & Computer Science with Distinction
+    - course: B.S. in Electrical Engineering and Computer Science with Distinction
       institution: Yale University
       year: 2021
     - course: Certificate in Data Science
