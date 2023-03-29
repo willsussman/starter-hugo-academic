@@ -1,9 +1,9 @@
 ---
-title: Yale Club of Boston
-summary: Young Alumni Committee Chair
+title: MIT Sidney-Pacific
+summary: Bikes Chair
 # tags:
 # - Deep Learning
-date: "2023-03-29T00:00:01Z"
+date: "2023-03-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

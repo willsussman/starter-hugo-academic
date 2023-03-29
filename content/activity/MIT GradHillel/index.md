@@ -3,7 +3,7 @@ title: MIT GradHillel
 summary: Social Chair
 # tags:
 # - Deep Learning
-date: "2021-12-05T00:00:00Z"
+date: "2023-03-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

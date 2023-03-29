@@ -3,6 +3,7 @@ role: PhD Student
 avatar_filename: avatar.jpg
 interests: []
 social:
+# https://wowchemy.com/docs/getting-started/page-builder/
   - icon: envelope
     icon_pack: fas
     link: mailto:wsussman@mit.edu
@@ -17,7 +18,8 @@ social:
     link: https://www.linkedin.com/in/willsussman/
   - icon: twitter
     icon_pack: fab
-    link: https://www.youtube.com/watch?v=oHg5SJYRHA0
+    link: https://twitter.com/WillSussmanPhD
+    # link: https://www.youtube.com/watch?v=oHg5SJYRHA0
 organizations:
   - name: MIT CSAIL
     url: https://www.csail.mit.edu/
