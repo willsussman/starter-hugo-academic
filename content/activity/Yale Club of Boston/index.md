@@ -1,6 +1,6 @@
 ---
 title: Yale Club of Boston
-summary: Young Alumni Committee Chair
+summary: Director-elect<br>Young Alumni Committee Chair
 # tags:
 # - Deep Learning
 date: "2023-03-29T00:00:01Z"
