@@ -1,6 +1,6 @@
 ---
 title: MIT GradHillel
-summary: Social Chair
+summary: President
 # tags:
 # - Deep Learning
 date: "2023-03-29T00:00:00Z"
