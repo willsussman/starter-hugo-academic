@@ -1,5 +1,5 @@
 ---
-abstract: In this pair of papers, I apply Margaret M. Polski’s and Elinor Ostrom’s Institutional Analysis and Development framework to analyze the wireless communication commons at multiple scales.
+abstract: In this pair of papers, I apply Margaret M. Polski's and Elinor Ostrom's Institutional Analysis and Development framework to analyze the wireless communication commons at multiple scales.
 slides: ""
 url_pdf: ""
 publication_types:
