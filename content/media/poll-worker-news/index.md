@@ -1,5 +1,5 @@
 ---
-abstract: When one conjures the image of the average poll worker, it’s probably not the picture of Will Sussman. 
+abstract: When one conjures the image of the average poll worker, it's probably not the picture of Will Sussman. 
 slides: ""
 url_pdf: ""
 publication_types:
