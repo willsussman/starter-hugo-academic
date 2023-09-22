@@ -36,7 +36,7 @@ highlight_name: true
 title: Will Sussman
 email: wsussman@mit.edu
 ---
-I'm a PhD student in the Networks and Mobile Systems group at MIT CSAIL, advised by Hari Balakrishnan. I am supported by a Jacobs Presidential Fellowship.
+Hello, world! I'm a PhD student and Jacobs Presidential Fellow in the Networks and Mobile Systems group at MIT CSAIL, advised by Hari Balakrishnan. I work part-time for the National Institute of Standards and Technology (NIST) and plan to complete the MIT Graduate Certificate Program in Science, Technology and Policy.
 
 Previously I was an undergraduate at Yale, where I worked on programmable radio environments with Wenjun Hu. I also started an IEEE Student Branch which was named best in the Northeast.
 

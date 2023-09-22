@@ -31,6 +31,9 @@ main:
   # - name: Contact
   #   url: '#contact'
   #   weight: 130
+  - name: Media
+    url: '#media'
+    weight: 65
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
