@@ -18,8 +18,8 @@ social:
     link: https://www.linkedin.com/in/willsussman/
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/WillSussmanPhD
-    # link: https://www.youtube.com/watch?v=oHg5SJYRHA0
+    # link: https://twitter.com/WillSussmanPhD
+    link: https://www.youtube.com/watch?v=oHg5SJYRHA0
 organizations:
   - name: MIT CSAIL
     url: https://www.csail.mit.edu/
@@ -40,4 +40,4 @@ Hello, world! I'm a PhD student and Jacobs Presidential Fellow in the Networks a
 
 Previously I was an undergraduate at Yale, where I worked on programmable radio environments with Wenjun Hu. I also started an IEEE Student Branch which was named best in the Northeast.
 
-My one-page resume can be found {{< staticref "will-sussman-resume.pdf" "newtab" >}}here{{< /staticref >}}. Some highlights are below.
+My resume can be found {{< staticref "will-sussman-resume.pdf" "newtab" >}}here{{< /staticref >}}. Some highlights are below.
