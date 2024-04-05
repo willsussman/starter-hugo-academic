@@ -11,7 +11,7 @@ authors:
 #   - Jeremy Gummeson
 #   - Kyle Jamieson
 #   - Wenjun Hu
-  - The National Right to Work Legal Defense Foundation
+  - National Right to Work Legal Defense Foundation
   # - Kyle Barr
 url_dataset: ""
 url_project: ""
